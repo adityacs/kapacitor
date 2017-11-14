@@ -9,8 +9,8 @@ Return all outliers that are more outside lower and upper bounds.
 
 The bounds are defined by:
 
-Lower Bound = 1st Quartile - IQR*SCALE
-Upper Bound = 3rd Quartile + IQR*SCALE
+`Lower Bound = 1st Quartile - IQR*SCALE`
+`Upper Bound = 3rd Quartile + IQR*SCALE`
 
 where
 
